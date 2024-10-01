@@ -5,3 +5,5 @@
 - [ ] Apresentar o inimigo
 - [ ] Perguntar a ação do personagem
 - [ ] Efetuar a ação
+    - [ ] Fugir
+    - [ ] Atacar
