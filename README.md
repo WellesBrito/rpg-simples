@@ -2,8 +2,8 @@
 
 - [X] Perguntar o nome do personagem
 - [X] Gerar o personagem
-- [ ] Apresentar o inimigo
-- [ ] Perguntar a ação do personagem
-- [ ] Efetuar a ação
-    - [ ] Fugir
-    - [ ] Atacar
+- [X] Apresentar o inimigo
+- [X] Perguntar a ação do personagem
+- [X] Efetuar a ação
+    - [X] Fugir
+    - [X] Atacar
